@@ -1,0 +1,4 @@
+a = int(input("Veuillez saisir un nombre:"))
+x = a * b
+for loop in range(x):   
+   print(x)
